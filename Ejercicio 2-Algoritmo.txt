@@ -1,0 +1,67 @@
+Algoritmo para Sacar a pasear a un perro.
+
+1.Tomar las llaves de la casa.
+2.Tomar celular.
+3.Tomar billetera. 
+4.Ir a buscar una bolsa de plástico para los desechos fecales al mueble donde se guardan las bolsas de plástico y guardarla en la bolsa del pantalón frontal derecha.
+5.Ir a tomar la correa del perro al mueble de la habitación principal en el cajón superior derecho.
+6.LLamar al perro para que venga a donde el esta. 
+7.Colocar la correa en el cuello del perro. 
+8.Ir hacia la puerta de salida de la casa. 
+9.Abrir la pueta.
+10.Salir hacia la calle.
+11.Girarr hacia la derecha
+12.Caminar recto.
+13.Detenerse ya que el perro haga sus necesidades. 
+14.Sacar la bolsa de plástico de la bolsa del pantalón frontal derecha. 
+15.Abrir la bolsa y meter la mano.
+16.Hagacharse y tomar los desechos. 
+17.Hacerle un nudo a la bolsa.
+18.Levantarse.
+19.Continuar con el paseo. 
+20.Una vez se hayan caminado 10 cuadras hacer un giro en 180 grados
+21.Caminar de vuelta a la casa. 
+22.Una vez se esté en frente de la casa se gira hacia la derecha y se va rumbo  a la puerta. 
+23.Se ingresa la llave a la puerta y se gira para abrirla. 
+24.Empujar la puerta hacia adentro. 
+25.Pasar sobre la puerta.
+26.Hagacharse y quitar la correa.
+27.Ir a tirar los desechos al bote de basura ubicado fuera de la casa y lavarse las manos.
+28.Guardar la correa en el mueble de la habitación principal en el cajón superior derecho.
+29.Colocar las llaves en el portallaves de la sala. 
+
+
+Algoritmo para cocer un hoyo del pantalón: 
+
+1.Determianr el área donde se trabajará. En este caso será la mesa de la cocina. 
+2.Tomar la caja de los implementos para cocer ubicada en el cuarto de herramientas. 
+3.Llevar la caja de implementos hacia la mesa de la cocina. 
+4.Ir a buscar el pantalón a donde esta ubicado físicamente, en este caso es el cesto de ropa limpia en el cuarto de lavandería. 
+5.Llevar el pantalón hacia la cocina y dejarlo en la mesa. 
+6.De la caja de implementos de cocer, elegir el color de cono de hilo que sea del mismo color del pantalón. 
+7.Si esta empacado, quitarle el empaque. Si no seguir al punto 8.
+8.Extender un tramo de hilo de un metro. 
+9.Cortar el hilo. 
+10.Tomar de la caja de implementos de cocer un aguja mediana. 
+11.Enebrar la aguja con el tramo de hilo cortado anteriormente. 
+12.Igualar el hilo para que quede parejo de ambos lados y del mismo tamaño.
+13.Tomar el pantalón de la mesa. 
+14.Darle la vuelta al pantalón para que pueda estar al revés. 
+15.Ubicar donde está el agujero.
+16.Unir los dos extremos de agujero. 
+17.Dejar un tramo para el lado dentro. 
+18.Tomar la aguja.
+19.Ingresar la aguja en la tela. 
+20.Pasar al otro lado. 
+21.Subir la aguja y regresarla hasta el lado inicial.
+21.seguir recorriendo todo el hoyo del hasta que todo este suturado. 
+22.Al final hacer un nudo. 
+23.Tomar la tijera de los implementos de cocer. 
+24.Cortar el sobrante luego del nudo realizado. 
+25.Dar vuelta al pantalón. 
+26.Guardar los implementos de cocer en la caja correspondiente.
+27.Tomar la caja de implementos para cocer y llevar a guardar al cuarto de herramientas. 
+28.Tomar el pantalón.
+29.Ir hacia a la habitación. 
+30.Guardarlo en el mueble de la habitación principal.
+

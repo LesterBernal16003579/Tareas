@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2025 by anonymous (http://jsbin.com/moqurojeto/1/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+
+<script id="jsbin-javascript">
+
+var seguirJugando = true;
+var numeroAleatorio = Math.floor(Math.random()*9)+1;
+var numeroUsuario;
+var adivinaste = false;
+
+
+            while (seguirJugando) {
+               
+                while (!adivinaste) {
+                    numeroUsuario = prompt("Ingresa un número entre 3 y 9");
+
+                   
+                    if (numeroUsuario < 3 || numeroUsuario > 9) {
+                        alert("Por favor, ingresa un número válido entre 3 y 9.");
+                    } else {
+                        
+                        if (parseInt(numeroUsuario) === numeroAleatorio) {
+                            alert("¡Felicidades! Has adivinado el número.");
+                            adivinaste = true;
+                        } else {
+                            alert("Intenta nuevamente. El número es incorrecto.");
+                        }
+                    }
+                }
+
+                var respuesta = prompt("¿Quieres seguir jugando? Ingresa 'SI' para continuar o 'NO' para salir:").toUpperCase();
+                
+                if (respuesta === "NO") {
+                    seguirJugando = false;
+                    alert("¡Gracias por jugar! El juego ha terminado.");
+                } else if (respuesta !== "SI") {
+                    alert("Respuesta no válida. El juego terminará.");
+                    seguirJugando = false;
+                }
+            }
+        
+
+</script>
+</body>
+</html>
